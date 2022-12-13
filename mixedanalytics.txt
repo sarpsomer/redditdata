@@ -1,0 +1,9 @@
+Weekly Top 30 Post
+https://www.reddit.com/r/Wallstreetbets/top.json?limit=30&t=week
+
+data.children[].data.{subreddit_name_prefixed:subreddit_name_prefixed,permalink:permalink,url:url,title:title,selftext:selftext,upvote_ratio:upvote_ratio,total_awards_received:total_awards_received,num_comments:num_comments,score:score,created_utc:created_utc}
+
+Search a subreddit for a keyword
+https://www.reddit.com/r/Wallstreetbets/search.json?limit=20&q=amc
+
+
